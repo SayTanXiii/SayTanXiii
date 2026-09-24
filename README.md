@@ -12,7 +12,7 @@ My working method is a team of Claude Code agents run under a written operating 
 
 | Repository | What it is | Stack |
 |---|---|---|
-| `sapb1-payment-run-approval` | SAP B1 10.0 add-on: a maker / checker / approver chain that gates a payment run's bank-file export. SAP-free core with 2049 unit tests that need no B1 client. | C#, .NET Framework 4.6.1, UI API + DI API, HANA, MSTest |
+| `sapb1-payment-run-approval` | SAP B1 10.0 add-on: a maker / checker / approver chain that gates a payment run's bank-file export. SAP-free core with 2143 unit tests that need no B1 client. | C#, .NET Framework 4.6.1, UI API + DI API, HANA, MSTest |
 | `sapb1-asset-duplicate-addon` | SAP B1 10.0 add-on: one-click duplicate of a fixed-asset master record with automatic code increment and post-write verification. | C#, .NET Framework 4.6.1, UI API + DI API, WinForms |
 | `claude-01-harness` | A portable Claude Code operating model: one dispatcher agent, specialist squads, and rules learned from measured incidents. | PowerShell 5.1, Markdown, Claude Code |
 | `portfolio` | Landing page describing the projects above in more depth. | Markdown |
